@@ -4,9 +4,16 @@
     />
 </h1>
 
-## Пару слов обо мне 👨‍💻
-Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem LoremLoremvv Lorem Lorem LoremLorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem LoremLoremLoremLoremv LoremLoremv vLoremLorem Lorem Lorem Lorem Lorem Lorem Lorem Loremv Lorem Lorem Lorem Loremv Lorem Loremv Lorem Lorem Lorem v
+Frontend разработчик, Тюмень
 
+## Пару слов обо мне 👨‍💻
+Занимаюсь веб-разработкой больше 2-х лет. Больше 10 месяцев работаю в веб-студии и разрабатываю сайты различной сложности.
+
+📫 Со мной можно связаться через Telegram или по почте dgrachkov03@mail.ru
+
+<a href="https://t.me/usweeboy" target="_blank">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">
+</a>
 
 ## Стек используемых технологий ⚙️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
